@@ -22,6 +22,7 @@ In this section you can find information about conventions and configuration for
    concurrency
    shadow-properties
    alternate-keys
+   relationships
    relational-table
    relational-column
    relational-data-type

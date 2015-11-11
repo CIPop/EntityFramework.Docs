@@ -120,7 +120,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Samples\RelationshipNoForeignKey.cs" />
+    <Compile Include="Samples\RelationshipOneNavigation.cs" />
+    <Compile Include="Samples\RelationshipFull.cs" />
     <Compile Include="Samples\AlternateKey.cs" />
+    <Compile Include="Samples\RelationshipOneToOne.cs" />
     <Compile Include="Samples\ShadowForeignKey.cs" />
     <Compile Include="Samples\IncludedTypes.cs" />
     <Compile Include="Samples\KeyTypeNameId.cs" />
